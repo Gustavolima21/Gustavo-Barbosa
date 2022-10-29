@@ -2,4 +2,5 @@
 
 - 🔥 Desenvolvedor Front-end jr.
 
-- 👓 Desenvolve alguns projetos pessoais
+- 👓 Desenvolvo alguns projetos pessoais
+  
